@@ -1,0 +1,6 @@
+{
+  "name": "Audio Condenser",
+  "description": "Upload an audio track and naturally condense it to 1:30 - 2:00 with smooth, automated crossfade transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
